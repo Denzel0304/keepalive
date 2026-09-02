@@ -43,6 +43,5 @@ jobs:
           git commit --allow-empty -m "keepalive: $(date -u +"%Y-%m-%d")"
           git push
 
-깃허브에서, supabase로 게시글 올리는거야.
 
-근데, 시간이 한국 시간 아니야? 시간이 이상한거 같아.
+내가 처음에 줬던 파일이야. 문제 있어? 이대로 다시 그냥 하려고.
